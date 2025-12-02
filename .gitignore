@@ -5,3 +5,5 @@
 !README.md
 !LICENSE
 !.gitignore
+!screenshots/
+!screenshots/*.png

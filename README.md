@@ -15,6 +15,12 @@
 
 ---
 
+## 截图预览
+
+![HTTPDog 界面](screenshots/ui.png)
+
+---
+
 ## 功能介绍
 
 ### 🐕 HTTPDog - 域名存活检测
