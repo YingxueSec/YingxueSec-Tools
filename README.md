@@ -77,7 +77,7 @@ xattr -cr /Applications/映雪安全工具箱.app
 ## 反馈与支持
 
 - 🐛 问题反馈：[GitHub Issues](https://github.com/YingxueSec/YingxueSec-Tools/issues)
-- 📧 联系邮箱：security@yingxue.com
+- 📧 联系邮箱：jack@yyyxxx.cc
 
 ---
 
