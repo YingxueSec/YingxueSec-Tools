@@ -8,7 +8,7 @@
 
 | 平台 | 文件 | 说明 |
 |------|------|------|
-| **macOS** | `映雪安全工具箱.app.zip` | 解压后双击运行 |
+| **macOS** | `YingxueSec-Toolbox-macOS.zip` | 解压后双击运行 |
 | **Windows** | `YingxueSec-Toolbox.exe` | 直接双击运行 |
 
 > ⚠️ macOS 首次运行可能提示"无法验证开发者"，请在"系统偏好设置 → 安全性与隐私"中允许运行。
